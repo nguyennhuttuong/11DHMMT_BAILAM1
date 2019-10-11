@@ -1,0 +1,10 @@
+ant -f "C:\\Users\\admin\\Documents\\bai tap gethut\\11DHMMT" -Dnb.internal.action.name=run.single -Djavac.includes=BAIHOCTUAN4/baitaptuan4.java -Drun.class=BAIHOCTUAN4.baitaptuan4 run-single
+init:
+Deleting: C:\Users\admin\Documents\bai tap gethut\11DHMMT\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\admin\Documents\bai tap gethut\11DHMMT\build\built-jar.properties
+Compiling 1 source file to C:\Users\admin\Documents\bai tap gethut\11DHMMT\build\classes
+compile-single:
+run-single:
+row inserted1
+BUILD SUCCESSFUL (total time: 7 seconds)
