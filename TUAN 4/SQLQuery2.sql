@@ -1,5 +1,5 @@
 use bookssupplier
-create table bookssup (
+create table BooksE (
 	SUPID NVARCHAR(10),
 	SUPNAME NVARCHAR(50),
 	SUPTYPE NVARCHAR(50),
